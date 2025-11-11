@@ -1,8 +1,8 @@
-\# CONTRIBUTING.md
+CONTRIBUTING.md
 
 
 
-\## Інструкція
+Інструкція
 
 
 
